@@ -1,2 +1,2 @@
-# react-redux-mui-autocomplete
+# react-clear-mui-autocomplete
 Created with CodeSandbox
